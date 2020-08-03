@@ -14,7 +14,7 @@ The following **required** functionality is complete:
 
 ## Video Walkthrough
 
-Here's a walkthrough of implemented user stories:
+Here's a walkthrough of the Tip Calculator App:
 
 <img src='http://g.recordit.co/1r97FlLcyQ.gif' title='Tip Calculator Walkthrough' width='' alt='Video Walkthrough' />
 
